@@ -327,7 +327,7 @@ I=(650 mAh)/(48 h)=13.5 mA
 
 Psal=(eficiencia)Pen=(0.85)(5 W)=4.25 W
 
- **Video: **
+ **Video:**
 
 
 
