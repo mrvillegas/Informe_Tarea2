@@ -192,7 +192,7 @@ b) V=I X R=(5μA)*(100 MΩ)=0.5 mV
 
 c) V=I X R=(2.5 A)*(47 Ω)=117.5 V
 
-28. Encuentre la resistencia de un reóstato para cada valor de V e I:
+    28. Encuentre la resistencia de un reóstato para cada valor de V e I:
 
 a) V = 10 V ; I=2 A ; R=V/I=(10 V)/(2 A)=5Ω 
 b) V = 90 V ; I=45 A ; R=V/I=(90 V)/(45 A)=2 Ω 
@@ -200,27 +200,141 @@ c) V = 50 V ; I=5 A ; R=V/I=(50 V)/(5 A)=10 Ω
 d) V = 5.5 V ; I=10 A ; R=V/I=(5.5 V)/(10 A)=550 Ω  
 e) V = 150 V ; I=0.5 A ; R=V/I=(150 V)/(0.5 A)=300 Ω 
 
-30. Se aplican seis volts a través de un resistor. Se mide una corriente de 2 mA. ¿Cuál es el valor del resistor?
+    30. Se aplican seis volts a través de un resistor. Se mide una corriente de 2 mA. ¿Cuál es el valor del resistor?
 
 R=V/I=(6 V)/(2 mA)=3 kΩ
 
-32. Se desconoce la resistencia de cierto dispositivo eléctrico. Usted dispone de una batería de 12 V y un amperímetro. ¿Cómo determinaría el valor de la resistencia desconocida? Trace las conexiones de circuito necesarias.
+    32. Se desconoce la resistencia de cierto dispositivo eléctrico. Usted dispone de una batería de 12 V y un amperímetro. ¿Cómo determinaría el valor de la resistencia desconocida? Trace las conexiones de circuito necesarias.
 
 Se conecta el amperímetro de esta forma y luego se calcula con la ley de ohm dada de la siguiente forma R=(12 V)/I
 
  ![1](https://github.com/mrvillegas/Informe_Tarea2/blob/main/d2.10.png)
  
- *34. Un circuito atenuador de luz de 120 V es controlado por un reóstato y está protegido contra corriente excesiva mediante un fusible de 2 A. ¿A qué valor de resistencia mínima puede ser ajustado el reóstato sin que se funda el fusible? Suponga una resistencia de la lámpara de 15 Ω .
+   *34. Un circuito atenuador de luz de 120 V es controlado por un reóstato y está protegido contra corriente excesiva mediante un fusible de 2 A. ¿A qué valor de resistencia mínima puede ser ajustado el reóstato sin que se funda el fusible? Suponga una resistencia de la lámpara de 15 Ω .
  
 R_min+15 Ω=(120 V)/(2 A)=60 Ω
 
 Dando así: R_min=60 Ω-15 Ω=45 Ω 
 
-36. En el circuito de luces de la figura 3-25, identifique el foco fundido con base en la serie de lecturas del óhmetro mostradas.
+    36. En el circuito de luces de la figura 3-25, identifique el foco fundido con base en la serie de lecturas del óhmetro mostradas.
 
 ![1](https://github.com/mrvillegas/Informe_Tarea2/blob/main/d2.11.png)
 
 La bombilla número 4, el foco esta fundido.
 
+**Resolucion capitulo 4:**
+
+    2. Demuestre que hay 3.6x10^6 joules en un kilowatt-hora.
+
+P=Energia/Tiempo=W/t
+
+W=P*Tiempo=(1*〖10〗^3 )W*(3600)s=3.6*〖10〗^6  J
+
+    4. Cuántos watts se utilizan cuando se consumen 7500 J de energía en 5 h?
+
+P=Energia/Tiempo=W/t=(7500 J)/((5h*(3600 s)/1h))=0.417 W
+
+    6. Convierta las siguientes cantidades en kilowatts:
+
+a) 1000 W  ; 1000 W*  (1 kW)/(1* 〖10〗^3 )=1 kW
+
+b) 3750 W ; 3750 W*  (1 kW)/(1* 〖10〗^3 )=3.750 kW
+
+c) 160 W ; 1000 W*  (1 kW)/(1* 〖10〗^3 )=0.160 kW
+
+d) 50,000 W ; 1000 W*  (1 kW)/(1* 〖10〗^3 )=50 kW
+
+    8. Convierta las siguientes cantidades en mili watts:
+
+a) 1 W ;1W*  (1 mW)/(1* 〖10〗^(-3 )  W)=1000 mW
+
+b) 0.4 W ;0.4W*  (1 mW)/(1* 〖10〗^(-3 )  W)=400 mW
+
+c) 0.002 W ;0.002W*  (1 mW)/(1* 〖10〗^(-3 )  W)=2 mW
+
+d) 0.0125 W;0.0125W*  (1 mW)/(1* 〖10〗^(-3 )  W)=12.5 mW
+
+    10. Convierta las siguientes cantidades en watts:
+    
+a) 1.5 kW ; 1.5* 〖10〗^3  W
+
+b) 0.5 MW ; 0.5MW*  (1* 〖10〗^9  W)/(1 MW)=5* 〖10〗^8  W
+
+c) 350 Mw ; 350 MW*  (1* 〖10〗^9  W)/(1 MW)=350* 〖10〗^9  W
+
+d) 9000 μW ; 9000 μW*  (1* 〖10〗^(-6)  W)/(1  μW)=9* 〖10〗^(-3)  W
+
+    *12. Si se permite que un foco de 300 W permanezca encendido continuamente durante 30 días, ¿cuántos kilowatts-hora de energía consume?
+    
+300 W ≈3 kW
+
+30 dias*  (24 h)/(1 dia)=750 h
+
+750 h*3 kW=216 kWh
+
+    14. Convierta 5* 〖10〗^6 watts-minutos en kWh.
+
+5*〖10〗^6  W*min⁡〖 * 1W/(1*〖10〗^3 kW)〗*  (1 h )/(60 min)=83.3 kWh
+
+    16. ¿Durante cuántos segundos debe haber 5 A de corriente a través de un resistor de 47 Ω para consumir 25 J?
+
+P=I^2*R=(5 A)^2*(47 Ω)=1175 W
+
+W=P*t ;t=W/P
+
+t=(25 J)/(1175 W)=21.3 ms
+
+    18. Si un resistor tiene 5.5 V entre sus extremos y 3 mA a través de él, ¿cuál es la potencia?
+
+P=V*I=(5.5 V)(3 mA)=16.5 mW
+
+    20. ¿Cuál es la potencia cuando 500 mA de corriente recorren un resistor de 4.7 kΩ?
+
+P=I^2*R=(500 mA)^2*(4.7 kΩ)=1.175 MW
+
+    22. Si entre los extremos de un resistor de 680 Ω existen 60 V, ¿cuál es la potencia?
+
+P=V^2/R=〖(60 V)〗^2/(680 Ω)=5.29 W
+
+    24. Si un resistor tiene que transportar 2 A de corriente y manejar 100 W de potencia, ¿de cuántos ohm debe ser? Suponga que el voltaje puede ser ajustado a cualquier valor requerido.
+
+P=I^2*R ;R=P/I^2 
 
 
+R=(100 W)/〖(2A)〗^2 =25 Ω
+
+    26. Un resistor de 6.8 kΩ se quemó en un circuito. Usted debe reemplazarlo por otro con el mismo valor de resistencia. Si el resistor transporta 10 mA, ¿cuál deberá ser su clasificación de potencia? Suponga que dispone de resistores en todas las clasificaciones de potencia estándar.
+    
+P=I^2*R= (10 mA)^2*  6.8 kΩ=0.68 W 
+
+    28. En cada circuito de la figura 4-13, asigne la polaridad apropiada de la caída de voltaje entre los extremos del resistor.
+    
+ ![1](https://github.com/mrvillegas/Informe_Tarea2/blob/main/d2.12.png)
+ 
+    30. Suponga que una batería D alcalina puede mantener un voltaje promedio de 1.25 V durante 90 horas en una carga de 10  Ω antes de volverse inutilizable. ¿Qué promedio de potencia se suministra a la carga durante la vida de la batería?
+    
+P_AVG=V^2/R=〖(1.25 V)〗^2/(10 Ω)=156 mW
+
+32. Una batería puede proporcionar un promedio de 1.5 A de corriente durante 24 h. ¿Cuál es su capacidad en amperes-hora?
+
+amperes/hora=(1.5 A)(24 h)=36 (Ah)
+
+34. Si la capacidad de una batería es de 650 mAh, ¿cuánta corriente promedio suministrará durante 48 h?
+
+I=(650 mAh)/(48 h)=13.5 mA
+
+36. Para operar al 85% de eficiencia, ¿cuánta potencia de salida debe producir una fuente si la potencia de entrada es de 5 W?
+
+Psal=(eficiencia)Pen=(0.85)(5 W)=4.25 W
+
+ **Video: **
+
+
+
+ **Conclusiones:**
+ 
+ La resolucion de los temas propuestos en 
+ 
+  **Bibliografia:**
+  
+  Thomas L. Floyd(2007). Principios de circuitos eléctricos. Octava edición
