@@ -210,7 +210,7 @@ Se conecta el amperímetro de esta forma y luego se calcula con la ley de ohm da
 
  ![1](https://github.com/mrvillegas/Informe_Tarea2/blob/main/d2.10.png)
  
-   *34. Un circuito atenuador de luz de 120 V es controlado por un reóstato y está protegido contra corriente excesiva mediante un fusible de 2 A. ¿A qué valor de resistencia mínima puede ser ajustado el reóstato sin que se funda el fusible? Suponga una resistencia de la lámpara de 15 Ω .
+   34. Un circuito atenuador de luz de 120 V es controlado por un reóstato y está protegido contra corriente excesiva mediante un fusible de 2 A. ¿A qué valor de resistencia mínima puede ser ajustado el reóstato sin que se funda el fusible? Suponga una resistencia de la lámpara de 15 Ω .
  
 R_min+15 Ω=(120 V)/(2 A)=60 Ω
 
@@ -305,7 +305,7 @@ R=(100 W)/〖(2A)〗^2 =25 Ω
 
     26. Un resistor de 6.8 kΩ se quemó en un circuito. Usted debe reemplazarlo por otro con el mismo valor de resistencia. Si el resistor transporta 10 mA, ¿cuál deberá ser su clasificación de potencia? Suponga que dispone de resistores en todas las clasificaciones de potencia estándar.
     
-P=I^2*R= (10 mA)^2*  6.8 kΩ=0.68 W 
+P=I^2*R= ((10 mA)^2)*  6.8 kΩ=0.68 W 
 
     28. En cada circuito de la figura 4-13, asigne la polaridad apropiada de la caída de voltaje entre los extremos del resistor.
     
@@ -333,8 +333,12 @@ Psal=(eficiencia)Pen=(0.85)(5 W)=4.25 W
 
  **Conclusiones:**
  
- La resolucion de los temas propuestos en 
- 
+-  La resolucion de los ejercicios propuestos tanto del capitulo 3 como tambien del capitulo 4 ayudo en la comprencion de como se comporta la intensidad en comparacion tanto del voltaje y la resistencia, vistos con la ley de ohm; se comprendio la relacion que existe entre la energia y potencia, y la relacion que existe de la potencia en un circuito electrico.
+
+- Se logro la comprencion del comportamiento de la corriente como tambien del voltaje que existe en un circuito en paralelo con las leyes de kirchoff.
+
+- Se comprendio como se porta la grafica de la intensidad en funcion del voltaje, el cual es una grafica lineal dado que la intensidad es directamente proporcional al voltaje, quiere decir que si el uno aumenta, el otro lo hace de igual manera de forma proporcional y asi de la misma manera al disminuir. En cambio la grafica de la Intensidad en funcion de la Resistencia es una hioerbola dado que si uno aumenta el otro decrece y asi de la misma forma si el uno disminuye el otro aumenta de forma proporcional.
+
   **Bibliografia:**
   
   Thomas L. Floyd(2007). Principios de circuitos eléctricos. Octava edición
